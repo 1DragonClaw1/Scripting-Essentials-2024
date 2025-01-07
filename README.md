@@ -1,1 +1,1 @@
-# Scripting Essentials 2024
+# Scripting Essentials 2025
