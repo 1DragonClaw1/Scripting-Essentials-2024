@@ -1,1 +1,1 @@
-# Scripting Essentials 2025
+# Scripting Essentials for 2025
